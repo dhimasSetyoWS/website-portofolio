@@ -1,0 +1,40 @@
+body {
+    font-size: 24px;
+}
+
+.hero-top {
+    text-align: center;
+}
+
+.hero-top img {
+    border-radius: 20px;
+}
+
+.mid-part {
+    display: flex;
+    justify-content: space-around;
+}
+
+.skills {
+    display: flex;
+    justify-content: center;
+}
+
+.skills ul li {
+    list-style-type: none;
+    text-align: center;
+}
+
+.multi-page {
+    display: flex;
+    justify-content: space-around;
+}
+
+.multi-page * {
+    text-decoration: none;
+    color : black
+}
+
+footer {
+    text-align: center;
+}
