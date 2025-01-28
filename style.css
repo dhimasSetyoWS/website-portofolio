@@ -1,0 +1,11 @@
+body {
+  scroll-behavior: smooth;
+}
+
+.badge {
+  width: 50%;
+}
+
+.pageml {
+  object-fit: cover;
+}
